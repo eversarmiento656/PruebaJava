@@ -9,5 +9,5 @@ public class PersonaConstante {
 
 	private PersonaConstante() {
 	}
-
+	//comentario
 }
